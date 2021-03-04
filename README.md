@@ -1,46 +1,50 @@
-# Getting Started with Create React App
+# GithubExplorer
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Sobre o projeto
 
-## Available Scripts
+GithubExplorer é uma aplicação desenvolvida em um dos modulos do GoStack[Rocketseat].
 
-In the project directory, you can run:
+A aplicação em si, consiste fazer uma breve busca por repositórios no Github, trazendo informações daquele repositório como: Stars, Forks e Issues.
 
-### `yarn start`
+## Layout mobile
+![image](https://user-images.githubusercontent.com/60803896/110020896-dd3e7380-7d08-11eb-88b9-1b3a0cf25a3b.png)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Layout web
+![Web 1](https://user-images.githubusercontent.com/60803896/110019618-7076a980-7d07-11eb-86d1-b633cb3858b7.png)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+![image](https://user-images.githubusercontent.com/60803896/110019744-92702c00-7d07-11eb-9c70-b1bdbc57c286.png)
 
-### `yarn test`
+# Tecnologias utilizadas
+## Back end
+- NodeJS
+## Front end
+- HTML
+- CSS
+- JAVASCRIPT
+- TYPESCRIPT
+- ReactJS
+- NextJS
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# Como executar o projeto
 
-### `yarn build`
+## Front end web
+Pré-requisitos: npm / yarn
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# clonar repositório
+git clone https://github.com/astracoder/GithubExplorer.git
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# entrar na pasta do projeto front end web
+cd GithubExplorer
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# instalar dependências
+yarn || npm i
 
-### `yarn eject`
+# executar o projeto
+yarn start || npm start
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# Autor
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+João Victor de Lima Rosa
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+https://www.linkedin.com/in/jo%C3%A3o-victor-de-lima-rosa-22b6851bb/
